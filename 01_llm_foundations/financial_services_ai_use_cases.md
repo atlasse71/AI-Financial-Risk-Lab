@@ -475,3 +475,17 @@ The architecture should prioritize:
 - AI governance
 - Reproducibility
 - Monitoring
+
+# Day 1 Knowledge Check
+
+## Question 1
+What is the difference between an LLM and an AI agent?
+A Large Language Model (LLM) is a text-generating AI engine, while an AI agent is an autonomous system that uses an LLM as its "brain" to plan, use tools, and execute multi-step tasks in a loop
+
+## Question 2
+Why would a bank use RAG instead of simply asking an LLM about its
+credit policy?
+A bank uses Retrieval-Augmented Generation (RAG) instead of a standard Large Language Model (LLM) because RAG provides accurate, up-to-date, and verifiable answers from internal documents while preventing costly hallucinations
+
+## Question 3
+What is tool calling?
