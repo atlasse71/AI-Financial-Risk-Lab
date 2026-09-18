@@ -1,0 +1,17 @@
+[
+  {"question": "What is counterparty risk?", "expected_topic": "Counterparty Risk"},
+  {"question": "What is the difference between CECL and CCAR?", "expected_topic": "CECL / Loss Forecasting"},
+  {"question": "What is population stability index?", "expected_topic": "Model Risk Management"},
+  {"question": "What is exposure at default?", "expected_topic": "Credit Risk"},
+  {"question": "What is the purpose of challenger models?", "expected_topic": "Model Risk Management"},
+  {"question": "What is probability of default?", "expected_topic": "Credit Risk"},
+  {"question": "What is loss given default?", "expected_topic": "Credit Risk"},
+  {"question": "What is SR 11-7?", "expected_topic": "Model Risk Management"},
+  {"question": "What is a sponsor bank?", "expected_topic": "Banking / Fintech"},
+  {"question": "What is netting in derivatives?", "expected_topic": "Counterparty Risk"},
+  {"question": "What is the CECL methodology?", "expected_topic": "CECL / Loss Forecasting"},
+  {"question": "What is model validation?", "expected_topic": "Model Risk Management"},
+  {"question": "What is concentration risk?", "expected_topic": "Credit Risk"},
+  {"question": "What is potential future exposure?", "expected_topic": "Counterparty Risk"},
+  {"question": "What is a challenger model in model risk management?", "expected_topic": "Model Risk Management"}
+]
